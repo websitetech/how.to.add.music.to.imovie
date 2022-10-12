@@ -1,6 +1,6 @@
 # How to add Music to imovie?
 
-[![how to add music to imovie](redd.png)](https://github.com/websitetech/how.to.add.music.to.imovie)
+[![how to add music to imovie](redd.png)](https://icncomputer.com/how-to-add-music-to-imovie/)
 
 
 If you sync your iTunes music to your phone, you can easily choose a track to add to your iMovie project. iMovie allows you to choose from your playlists, albums, artists, and individual songs, so it’s easy to find what you’re looking for. Here’s how to add a song to iMovie from your iPhone. 
